@@ -1,0 +1,7 @@
+[project]
+name = "mini-rl"
+version = "0.1.0"
+description = "Simple implementations of various reinforcement learning algorithms"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
